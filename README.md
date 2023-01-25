@@ -1,4 +1,6 @@
-Olá 👋! Eu sou o Vander e esse é o meu repositório de Data Science / Machine Learning
+Olá 👋! 
+
+Eu sou o Vander e esse é o meu repositório de Data Science / Machine Learning
 
 🎓 Estou no último ano de graduação em Ciências Econômicas
 
